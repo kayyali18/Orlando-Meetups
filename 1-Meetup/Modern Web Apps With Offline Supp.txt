@@ -1,0 +1,8 @@
+How to keep apps performant
+
+ - Be cognizant of which packages you introduce
+ 
+ - Inspect with google lighthouse
+
+ - Caching with service workers
+
